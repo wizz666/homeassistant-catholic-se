@@ -1,0 +1,13 @@
+{
+  "domain": "catholic_se",
+  "name": "Katolska Kyrkan Sverige",
+  "documentation": "https://www.katolskakyrkan.se/",
+  "dependencies": [],
+  "codeowners": [
+    "@mikael"
+  ],
+  "requirements": [],
+  "version": "1.5.0",
+  "iot_class": "cloud_polling",
+  "config_flow": true
+}

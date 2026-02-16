@@ -1,0 +1,7 @@
+{
+  "name": "Katolska Kyrkan Sverige",
+  "render_readme": true,
+  "domains": ["sensor"],
+  "country": ["SE"],
+  "homeassistant": "2024.1.0"
+}

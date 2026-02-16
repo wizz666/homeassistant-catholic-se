@@ -1,0 +1,10 @@
+{
+    "domain": "catholic_se",
+    "name": "Katolska Kyrkan Sverige",
+    "step": {
+        "user": {
+            "title": "Katolska Kyrkan Sverige",
+            "description": "Lägg till integrationen för katolska kalendern."
+        }
+    }
+}
