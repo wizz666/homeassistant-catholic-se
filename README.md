@@ -2,6 +2,7 @@
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 [![Version](https://img.shields.io/badge/version-1.5.0-blue.svg)](https://github.com/wizz666/homeassistant-catholic-se)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_this_project-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/wizz666)
 
 Custom Home Assistant integration providing Swedish Catholic liturgical data and daily Mass readings from [katolskakyrkan.se](https://www.katolskakyrkan.se/).
 
@@ -213,6 +214,12 @@ entities:
 ### Psalm text missing
 - Some feast days have complex page structures with multiple psalm headers
 - The integration handles this by using the last (2022) version
+
+## Support
+
+If you find this integration useful, a coffee is always appreciated ☕
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/wizz666)
 
 ## License
 
