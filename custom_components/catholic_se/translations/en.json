@@ -1,10 +1,10 @@
 {
-    "domain": "catholic_se",
-    "name": "Katolska Kyrkan Sverige",
+  "config": {
     "step": {
-        "user": {
-            "title": "Katolska Kyrkan Sverige",
-            "description": "Lägg till integrationen för katolska kalendern."
-        }
+      "user": {
+        "title": "Katolska Kyrkan Sverige",
+        "description": "Add the integration for the Swedish Catholic liturgical calendar."
+      }
     }
+  }
 }
