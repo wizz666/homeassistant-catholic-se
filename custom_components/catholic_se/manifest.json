@@ -1,12 +1,14 @@
 {
   "domain": "catholic_se",
   "name": "Katolska Kyrkan Sverige",
-  "codeowners": ["@wizz666"],
+  "codeowners": [
+    "@wizz666"
+  ],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/wizz666/homeassistant-catholic-se",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/wizz666/homeassistant-catholic-se/issues",
   "requirements": [],
-  "version": "1.5.1"
+  "version": "1.5.2"
 }
